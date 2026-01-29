@@ -4,7 +4,7 @@ Software Engineer focused on building reliable, user-friendly web applications.
 
 I primarily work with **ReactJS** and **NextJS**, building modern frontend systems that emphasize clarity, performance, and maintainability. Over the past 2+ years, I’ve worked on real-world, production-level projects where clean UI architecture, predictable state, and good user experience mattered.
 
-I enjoy taking ideas from a blank screen to a fully working product — planning the structure, writing the code, debugging edge cases, and refining the experience until it feels right.
+I enjoy taking ideas from a blank screen to a fully working product planning the structure, writing the code, debugging edge cases, and refining the experience until it feels right.
 
 ---
 
