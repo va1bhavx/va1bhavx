@@ -41,8 +41,8 @@ More projects and details → [**Portfolio**](https://kumarvaibhav.xyz)
 
 - 🌐 Portfolio: https://kumarvaibhav.xyz  
 - 💼 LinkedIn: https://www.linkedin.com/in/va1bhavx  
-- 🐦 Twitter/X: https://twitter.com/va1bhav_x  
-- 💻 GitHub: https://github.com/va1bhavx  
+- 🐦 Twitter/X: https://twitter.com/va1bhavx  
+- 💻 GitHub: https://github.com/va1bhavx
 
 ---
 
